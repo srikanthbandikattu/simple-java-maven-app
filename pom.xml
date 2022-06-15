@@ -27,7 +27,7 @@
             <version>3.8.1</version>
         </plugin>
       </plugins>
-    <pluginManagement>
+    </pluginManagement>
       <plugin>
         <!-- Build an executable JAR -->
         <groupId>org.apache.maven.plugins</groupId>
