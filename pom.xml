@@ -66,4 +66,10 @@
       </plugin>
     </plugins>
   </build>
+  <distributionManagement>
+	        <repository>
+			<id>package</id>
+			<url>http://3.17.148.216:8081/repository/package/</url>
+		</repository>
+  </distributionManagement>
 </project>
